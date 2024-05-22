@@ -1,0 +1,16 @@
+{
+  "iou": 0.22,
+  "conf": 0.13,
+  "rate": 0.01,
+  "save_res": false,
+  "save_txt": false,
+  "save_res_path": "pre_result",
+  "save_txt_path": "pre_labels",
+  "models_path": "models",
+  "open_fold": "C:/Users/Yang_PC/Documents/Github/TFMS",
+  "show_trace": false,
+  "show_labels": true,
+  "rtsp_ip": "https://www.youtube.com/watch?v=5_XSYlAfJZM&list=PLcQZGj9lFR7y5WikozDSrdk6UCtAnM9mB&index=8",
+  "car_id": "1",
+  "car_threshold": 2
+}
